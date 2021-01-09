@@ -13,6 +13,7 @@ public class Companyinfo {
 	public static void main(String[] args) {
 		Companyinfo c = new Companyinfo();
 		c.companyName();
+		System.out.println("jii");
 		
 	}
 }
