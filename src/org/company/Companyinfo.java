@@ -14,7 +14,9 @@ public class Companyinfo {
 		Companyinfo c = new Companyinfo();
 		c.companyName();
 		System.out.println("jaa");
+		System.out.println("jii");
+
 		
-		
+				
 	}
 }
